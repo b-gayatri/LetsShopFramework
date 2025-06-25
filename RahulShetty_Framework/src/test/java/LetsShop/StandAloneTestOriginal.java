@@ -20,7 +20,7 @@ public class StandAloneTestOriginal {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		
+		// This is standalone framework without POM
 		
 		
 		WebDriverManager.edgedriver().setup();
