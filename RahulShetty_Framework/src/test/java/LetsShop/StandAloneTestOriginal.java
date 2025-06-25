@@ -20,9 +20,9 @@ public class StandAloneTestOriginal {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		// This is standalone framework without POM
 		
 		
+		// W1 contains files with POM
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://rahulshettyacademy.com/client");
