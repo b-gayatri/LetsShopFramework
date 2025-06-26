@@ -23,6 +23,7 @@ public class StandAloneTestOriginal {
 		
 		
 		// W1 contains files with POM
+		//This is develop branch from w2
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://rahulshettyacademy.com/client");
